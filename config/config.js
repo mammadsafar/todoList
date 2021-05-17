@@ -1,4 +1,4 @@
 module.exports = {
-    mongodbUrl: 'mongodb://localhost:27017/todoList',
+    mongodbUrl: 'mongodb+srv://todolist:todolist@cluster0.f9mun.mongodb.net/todoList?retryWrites=true&w=majority',
     secretKey: '/\/\0H@mm@|)'
 }
